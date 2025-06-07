@@ -2,6 +2,13 @@
 
 Implementasi algoritma K-Nearest Neighbors untuk klasifikasi dataset Iris menggunakan Python murni tanpa library eksternal.
 
+## 👥 Anggota Kelompok - Walawe
+
+| No | Nama                     | NIM         |
+|----|--------------------------|-------------|
+| 1  | Aditya Prabu Mukti       | 2211104037  |
+| 2  | Dimas Cahyo Margono      | 2211104060  |
+
 ## 🎯 Fitur Utama
 - ✅ Implementasi KNN dari nol tanpa library ML
 - ✅ 4 metrik jarak: Euclidean, Manhattan, Minkowski, Cosine  
